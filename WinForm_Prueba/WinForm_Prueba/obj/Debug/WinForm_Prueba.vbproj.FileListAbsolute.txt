@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\WinForm_Prueba\WinForm_Prueba\bin\Debug\WinForm_Prueba.exe.config
+C:\Users\victo\source\repos\WinForm_Prueba\WinForm_Prueba\bin\Debug\WinForm_Prueba.exe
+C:\Users\victo\source\repos\WinForm_Prueba\WinForm_Prueba\bin\Debug\WinForm_Prueba.pdb
+C:\Users\victo\source\repos\WinForm_Prueba\WinForm_Prueba\bin\Debug\WinForm_Prueba.xml
+C:\Users\victo\source\repos\WinForm_Prueba\WinForm_Prueba\obj\Debug\WinForm_Prueba.vbprojAssemblyReference.cache
+C:\Users\victo\source\repos\WinForm_Prueba\WinForm_Prueba\obj\Debug\WinForm_Prueba.Form1.resources
+C:\Users\victo\source\repos\WinForm_Prueba\WinForm_Prueba\obj\Debug\WinForm_Prueba.Resources.resources
+C:\Users\victo\source\repos\WinForm_Prueba\WinForm_Prueba\obj\Debug\WinForm_Prueba.vbproj.GenerateResource.cache
+C:\Users\victo\source\repos\WinForm_Prueba\WinForm_Prueba\obj\Debug\WinForm_Prueba.exe
+C:\Users\victo\source\repos\WinForm_Prueba\WinForm_Prueba\obj\Debug\WinForm_Prueba.xml
+C:\Users\victo\source\repos\WinForm_Prueba\WinForm_Prueba\obj\Debug\WinForm_Prueba.pdb

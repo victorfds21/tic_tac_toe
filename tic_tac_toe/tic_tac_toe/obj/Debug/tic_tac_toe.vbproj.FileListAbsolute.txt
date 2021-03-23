@@ -1,0 +1,12 @@
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.exe.config
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.exe
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.pdb
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\bin\Debug\tic_tac_toe.xml
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.vbprojAssemblyReference.cache
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.Resources.resources
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.vbproj.GenerateResource.cache
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.exe
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.xml
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.pdb
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.Juego.resources
+C:\Users\victo\source\repos\tic_tac_toe\tic_tac_toe\obj\Debug\tic_tac_toe.Inicio.resources

@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\texbox\texbox\bin\Debug\texbox.exe.config
+C:\Users\victo\source\repos\texbox\texbox\bin\Debug\texbox.exe
+C:\Users\victo\source\repos\texbox\texbox\bin\Debug\texbox.pdb
+C:\Users\victo\source\repos\texbox\texbox\bin\Debug\texbox.xml
+C:\Users\victo\source\repos\texbox\texbox\obj\Debug\texbox.vbprojAssemblyReference.cache
+C:\Users\victo\source\repos\texbox\texbox\obj\Debug\texbox.Form1.resources
+C:\Users\victo\source\repos\texbox\texbox\obj\Debug\texbox.Resources.resources
+C:\Users\victo\source\repos\texbox\texbox\obj\Debug\texbox.vbproj.GenerateResource.cache
+C:\Users\victo\source\repos\texbox\texbox\obj\Debug\texbox.exe
+C:\Users\victo\source\repos\texbox\texbox\obj\Debug\texbox.xml
+C:\Users\victo\source\repos\texbox\texbox\obj\Debug\texbox.pdb

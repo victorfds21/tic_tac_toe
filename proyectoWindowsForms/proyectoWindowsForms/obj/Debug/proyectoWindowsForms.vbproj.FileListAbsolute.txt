@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\proyectoWindowsForms\proyectoWindowsForms\bin\Debug\proyectoWindowsForms.exe.config
+C:\Users\victo\source\repos\proyectoWindowsForms\proyectoWindowsForms\bin\Debug\proyectoWindowsForms.exe
+C:\Users\victo\source\repos\proyectoWindowsForms\proyectoWindowsForms\bin\Debug\proyectoWindowsForms.pdb
+C:\Users\victo\source\repos\proyectoWindowsForms\proyectoWindowsForms\bin\Debug\proyectoWindowsForms.xml
+C:\Users\victo\source\repos\proyectoWindowsForms\proyectoWindowsForms\obj\Debug\proyectoWindowsForms.Resources.resources
+C:\Users\victo\source\repos\proyectoWindowsForms\proyectoWindowsForms\obj\Debug\proyectoWindowsForms.vbproj.GenerateResource.cache
+C:\Users\victo\source\repos\proyectoWindowsForms\proyectoWindowsForms\obj\Debug\proyectoWindowsForms.exe
+C:\Users\victo\source\repos\proyectoWindowsForms\proyectoWindowsForms\obj\Debug\proyectoWindowsForms.xml
+C:\Users\victo\source\repos\proyectoWindowsForms\proyectoWindowsForms\obj\Debug\proyectoWindowsForms.pdb
+C:\Users\victo\source\repos\proyectoWindowsForms\proyectoWindowsForms\obj\Debug\proyectoWindowsForms.vbprojAssemblyReference.cache
+C:\Users\victo\source\repos\proyectoWindowsForms\proyectoWindowsForms\obj\Debug\proyectoWindowsForms.Form1.resources

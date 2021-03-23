@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\bin\Debug\WindowsApp1_prueba.exe.config
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\bin\Debug\WindowsApp1_prueba.exe
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\bin\Debug\WindowsApp1_prueba.pdb
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\bin\Debug\WindowsApp1_prueba.xml
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\obj\Debug\WindowsApp1_prueba.vbprojAssemblyReference.cache
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\obj\Debug\WindowsApp1_prueba.Form1.resources
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\obj\Debug\WindowsApp1_prueba.Resources.resources
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\obj\Debug\WindowsApp1_prueba.vbproj.GenerateResource.cache
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\obj\Debug\WindowsApp1_prueba.exe
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\obj\Debug\WindowsApp1_prueba.xml
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\obj\Debug\WindowsApp1_prueba.pdb
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\obj\Debug\WindowsApp1_prueba.Form2.resources
+C:\Users\victo\source\repos\WindowsApp1_prueba\WindowsApp1_prueba\obj\Debug\WindowsApp1_prueba.Form3.resources

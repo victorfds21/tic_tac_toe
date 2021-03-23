@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\texbox\animales\bin\Debug\animales.exe.config
+C:\Users\victo\source\repos\texbox\animales\bin\Debug\animales.exe
+C:\Users\victo\source\repos\texbox\animales\bin\Debug\animales.pdb
+C:\Users\victo\source\repos\texbox\animales\bin\Debug\animales.xml
+C:\Users\victo\source\repos\texbox\animales\obj\Debug\animales.animales.resources
+C:\Users\victo\source\repos\texbox\animales\obj\Debug\animales.Resources.resources
+C:\Users\victo\source\repos\texbox\animales\obj\Debug\animales.vbproj.GenerateResource.cache
+C:\Users\victo\source\repos\texbox\animales\obj\Debug\animales.exe
+C:\Users\victo\source\repos\texbox\animales\obj\Debug\animales.xml
+C:\Users\victo\source\repos\texbox\animales\obj\Debug\animales.pdb
+C:\Users\victo\source\repos\texbox\animales\obj\Debug\animales.BuscarNumero.resources
